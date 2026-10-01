@@ -4,6 +4,7 @@ ao banco de dados, caminho do
 servidor, usuario do banco root,
 senha (vazia), nome do banco
  criado*/
+ //Arquivo conexão
 $servername = "localhost";
 $username = "root";
 $password = "";
