@@ -94,7 +94,7 @@ function validarFormulario() {
 
 <form method="post" action="insertAvaliacao.php" 
       enctype="multipart/form-data"
-      onsubmit="return validarFormulario()">
+      onsubmit=#return validarFormulario()#>
 
 <div class="row g-3">
 
