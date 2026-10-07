@@ -12,7 +12,7 @@ include "../conexao.php";
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
     rel="stylesheet">
 
-<title>Formulário Completo</title>
+<title>Formulário Completo1</title>
 
 <style>
 body{
